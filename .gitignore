@@ -31,3 +31,7 @@ Thumbs.db
 
 # VS Code workspace settings
 .vscode/
+
+# Dataset files - keep raw and processed data out of Git
+data/raw/
+data/processed/
